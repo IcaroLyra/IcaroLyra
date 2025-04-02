@@ -43,7 +43,7 @@
 <h2 align="left">🚧 Projetos em Destaque</h2>
 <ul>
   <li><a href="https://github.com/IcaroLyra/Estudos-De-Java" target="_blank">Estudos de Java</a> – Repositório com exercícios práticos e fundamentos da linguagem Java.</li>
-  <li><a href="https://github.com/IcaroLyra" target="_blank">Ver todos os projetos no meu perfil</a></li>
+  <li><a href="https://github.com/IcaroLyra?tab=repositories" target="_blank">Ver todos os projetos no meu perfil</a></li>
 </ul>
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0;" />
