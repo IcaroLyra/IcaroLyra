@@ -7,9 +7,8 @@
 <h2 align="left">👋 Olá, eu sou o Ícaro</h2>
 
 <p align="left">
-🧑‍💻 Desenvolvedor em formação e Técnico em Eletrotécnica<br><br>
-💼 Técnico em Eletrotécnica, aplicando conhecimentos técnicos na solução de problemas e no desenvolvimento de projetos<br>
-📚 Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e programação<br>
+🧑‍💻 Apaixonado por transformar ideias em código<br><br>
+📚 Estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em backend com Java e explorando o mundo da tecnologia com curiosidade e dedicação<br>
 🎯 Em constante evolução, buscando aprimorar minhas habilidades em desenvolvimento e explorar novas tecnologias<br>
 🤝 Aberto a colaborações, troca de experiências e novos desafios. Vamos criar soluções juntos!
 </p>
