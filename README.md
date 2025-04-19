@@ -37,6 +37,7 @@
 ---
 
 ## 🌐 Conecte‑se comigo
+## 🌐 Conecte‑se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/icarolrt/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
@@ -46,6 +47,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48"/>
   </a>
 </p>
+
 
 
 ---
