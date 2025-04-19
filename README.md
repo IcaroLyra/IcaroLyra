@@ -38,7 +38,7 @@
 
 ## 🌐 Conecte‑se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/icaro-tercio/" target="_blank">
+  <a href="https://www.linkedin.com/in/icarolrt/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
   </a>
   &nbsp;&nbsp;
