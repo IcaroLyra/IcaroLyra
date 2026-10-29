@@ -38,4 +38,4 @@ Mantenho exercícios e projetos de estudo como parte da minha formação e evolu
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/icarolrt/)
-- [E-mail](mailto:icarolyrarangeltercio@gmail.com)
+- E-mail: [icraolyra@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=icraolyra%40gmail.com)
