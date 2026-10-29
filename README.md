@@ -7,7 +7,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas pela FAESA** e desenvolv
 ## O que faço atualmente
 
 - Desenvolvo sites, landing pages e aplicações web.
-- Utilizo **ChatGPT, Claude e Codex** para apoiar a definição de requisitos, explorar soluções e implementar funcionalidades.
+- Utilizo **IA generativa e assistentes de programação** para apoiar a definição de requisitos, explorar soluções e implementar funcionalidades, buscando compreender e revisar o código produzido.
 - Crio **prompts e skills personalizadas** para orientar assistentes de IA nas tarefas dos projetos.
 - Utilizo **Supabase e Cloudflare** nos projetos.
 - Continuo estudando fundamentos de programação e engenharia de software.
@@ -16,7 +16,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas pela FAESA** e desenvolv
 
 | Área | Ferramentas e conhecimentos |
 | --- | --- |
-| IA no desenvolvimento | ChatGPT, Claude, Codex, prompts e skills personalizadas |
+| IA no desenvolvimento | ChatGPT, Claude, Codex e Claude Code; prompts e skills personalizadas |
 | Serviços para aplicações | Supabase e Cloudflare |
 | Fundamentos em estudo | Java, Python, HTML e CSS |
 
